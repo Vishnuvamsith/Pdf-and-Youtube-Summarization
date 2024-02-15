@@ -1,0 +1,14 @@
+youtube_transcript_api
+streamlit
+google-generativeai
+python-dotenv
+pathlib
+openai
+langchain
+ctransformers==0.2.27
+tiktoken
+pdfplumber
+chromadb
+kaleido
+python-multipart
+cohere
